@@ -14,7 +14,7 @@
 
 ## About Me
 
-<img align="right" alt="Code illustration showing front-end and back-end work" width="300" src="https://github.com/raaakib0/raaakib0/blob/main/Developer.gif">
+<img align="right" alt="Code illustration showing front-end and back-end work" width="300" src="https://raw.githubusercontent.com/raaakib0/raaakib0/refs/heads/main/Developer.gif">
 
 I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in building responsive, scalable, and high-performance web applications. My background includes full-stack development using modern frameworks.
 
@@ -26,7 +26,8 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 Profile Views: <a><img src="https://komarev.com/ghpvc/?username=raaakib0&label=Profile%20views&color=0e75b6&style=flat" alt="raaakib0" /></a>
 
-<br>
+---
+<!-- <br> -->
 
 ## Tech Stack & Expertise
 
@@ -38,7 +39,8 @@ Profile Views: <a><img src="https://komarev.com/ghpvc/?username=raaakib0&label=P
 | **CMS & Tools** | **WordPress (Custom Plugin Dev)**, Vercel, Netlify, VS Code, Postman | |
 | **Version Control** | **GitHub** | Clean Code Principles |
 
-<br>
+---
+<!-- <br> -->
 
 ## GitHub Metrics & Activity
 

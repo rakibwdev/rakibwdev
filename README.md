@@ -1,5 +1,5 @@
 <img  src="https://github.com/raaakib0/raaakib0/blob/main/HomeBanner.gif"> 
-<h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>
+<h1 align="center">Hello, I'm Md. Rakibul Islam</h1>
 <h3 align="center">Junior Full-Stack Web Developer | ReactJS | Laravel | WordPress</h3>
 
 ---
@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,wordpress,figma,postman,netlify,vercel,npm,docker" alt="Databases and CMS Tools" />
 </p>
 
-## 🚀 About Me
+## About Me
 
 <img align="right" alt="Code illustration showing front-end and back-end work" width="300" src="https://github.com/raaakib0/raaakib0/blob/main/Developer.gif">
 
@@ -24,11 +24,11 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 * 💬 Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.
 * 📫 Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/raaakib0).
 
-🧑‍🏫 Profile Views: <a><img src="https://komarev.com/ghpvc/?username=raaakib0&label=Profile%20views&color=0e75b6&style=flat" alt="raaakib0" /></a>
+Profile Views: <a><img src="https://komarev.com/ghpvc/?username=raaakib0&label=Profile%20views&color=0e75b6&style=flat" alt="raaakib0" /></a>
 
 <br>
 
-## 💡 Tech Stack & Expertise
+## Tech Stack & Expertise
 
 | Category | Key Technologies | Architectural Patterns |
 | :--- | :--- | :--- |
@@ -40,7 +40,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 <br>
 
-## 📈 GitHub Metrics & Activity
+## GitHub Metrics & Activity
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raaakib0&theme=tokyonight" alt="GitHub Profile Details" />

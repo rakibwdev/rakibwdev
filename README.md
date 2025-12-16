@@ -1,4 +1,4 @@
-<img  src="https://github.com/raaakib0/raaakib0/blob/main/header_.png"> 
+<img  src="https://github.com/raaakib0/raaakib0/blob/main/HomeBanner.gif"> 
 <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>
 <h3 align="center">Junior Full-Stack Web Developer | ReactJS | Laravel | WordPress</h3>
 

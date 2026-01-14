@@ -1,4 +1,4 @@
-<img  src="https://github.com/raaakib0/raaakib0/blob/main/HomeBanner.gif"> 
+<img  src="https://github.com/rakib.wdev/rakib.wdev/blob/main/HomeBanner.gif"> 
 <h1 align="center">Hello, I'm Md. Rakibul Islam</h1>
 <h3 align="center">Junior Full-Stack Web Developer | ReactJS | Laravel | WordPress</h3>
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-<img align="right" alt="Code illustration showing front-end and back-end work" width="300" src="https://raw.githubusercontent.com/raaakib0/raaakib0/refs/heads/main/Developer.gif">
+<img align="right" alt="Code illustration showing front-end and back-end work" width="300" src="https://raw.githubusercontent.com/rakib.wdev/rakib.wdev/refs/heads/main/Developer.gif">
 
 I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in building responsive, scalable, and high-performance web applications. My background includes full-stack development using modern frameworks.
 
@@ -22,9 +22,9 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 * 🌱 I’m actively strengthening my skills in **VueJS** and modern JavaScript (ES6+).
 * 👯 I’m open to collaboration on **Full-Stack** projects built with the **TALL** (Tailwind, Alpine, Laravel, Livewire) stack.
 * 💬 Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.
-* 📫 Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/raaakib0).
+* 📫 Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/rakib.wdev).
 
-Profile Views: <a><img src="https://komarev.com/ghpvc/?username=raaakib0&label=Profile%20views&color=0e75b6&style=flat" alt="raaakib0" /></a>
+Profile Views: <a><img src="https://komarev.com/ghpvc/?username=rakib.wdev&label=Profile%20views&color=0e75b6&style=flat" alt="rakib.wdev" /></a>
 
 ---
 <!-- <br> -->
@@ -45,14 +45,14 @@ Profile Views: <a><img src="https://komarev.com/ghpvc/?username=raaakib0&label=P
 ## GitHub Metrics & Activity
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raaakib0&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib.wdev&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 <!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raaakib0&theme=dark&hide_border=true&date_format=j%20M%5BY%5D&locale=en&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib.wdev&theme=dark&hide_border=true&date_format=j%20M%5BY%5D&locale=en&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF&background=0D1117" alt="GitHub Streak" />
 </p> -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raaakib0&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raaakib0&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakib.wdev&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakib.wdev&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ Profile Views: <a><img src="https://komarev.com/ghpvc/?username=raaakib0&label=P
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
   <a href="https://portfoliorakib.netlify.app/"><img alt="Portfolio" width="40px" src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000" style="padding:5px"/></a>
-  <a href="https://www.linkedin.com/in/raaakib0"><img alt="LinkedIn" width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" style="padding:5px"/></a>
+  <a href="https://www.linkedin.com/in/rakib.wdev"><img alt="LinkedIn" width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" style="padding:5px"/></a>
 </p>
 
 <p align="center">
@@ -68,5 +68,5 @@ Profile Views: <a><img src="https://komarev.com/ghpvc/?username=raaakib0&label=P
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/raaakib0/raaakib0?label=Last%20Update%20on&color=00BFFF&style=flat-square" alt="Last Commit Date" />
+  <img src="https://img.shields.io/github/last-commit/rakib.wdev/rakib.wdev?label=Last%20Update%20on&color=00BFFF&style=flat-square" alt="Last Commit Date" />
 </p>

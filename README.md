@@ -24,7 +24,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 * 💬 Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.
 * 📫 Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/rakibwdev).
 
-Profile Views: <a><img src="https://komarev.com/ghpvc/?username=rakibwdev&label=Profile%20views&color=0e75b6&style=flat" alt="rakibwdev" /></a>
+<a><img src="https://komarev.com/ghpvc/?username=rakibwdev&label=Profile%20Views:&color=0e75b6&style=flat" alt="rakibwdev" /></a>
 
 ---
 <!-- <br> -->

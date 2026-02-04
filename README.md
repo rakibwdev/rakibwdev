@@ -47,9 +47,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibwdev&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibwdev&theme=dark&hide_border=true&date_format=j%20M%5BY%5D&locale=en&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF&background=0D1117" alt="GitHub Streak" />
-</p> -->
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakibwdev&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibwdev&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />

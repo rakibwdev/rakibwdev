@@ -18,28 +18,30 @@
 
 I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in building responsive, scalable, and high-performance web applications. My background includes full-stack development using modern frameworks.
 
-* I’m currently focused on **Laravel** API development and **ReactJS** frontend architecture.
-* I’m actively strengthening my skills in **VueJS** and modern JavaScript (ES6+).
-* I’m open to collaboration on **Full-Stack** projects built with the **TALL** (Tailwind, Alpine, Laravel, Livewire) stack.
-* Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.
-* Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/rakibwdev).
+- I’m currently focused on **Laravel** API development and **ReactJS** frontend architecture.
+- I’m actively strengthening my skills in **VueJS** and modern JavaScript (ES6+).
+- I’m open to collaboration on **Full-Stack** projects built with the **TALL** (Tailwind, Alpine, Laravel, Livewire) stack.
+- Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.
+- Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/rakibwdev).
 
 <a><img src="https://komarev.com/ghpvc/?username=rakibwdev&label=Profile%20Views:&color=0e75b6&style=flat" alt="rakibwdev" /></a>
 
 ---
+
 <!-- <br> -->
 
 ## Tech Stack & Expertise
 
-| Category | Key Technologies | Architectural Patterns |
-| :--- | :--- | :--- |
-| **Frontend** | ReactJS, VueJS, JavaScript (ES6+), TailwindCSS, Bootstrap | Component-Based Architecture (CBA), RESTful APIs |
-| **Backend** | Laravel, PHP, Node.js, REST API Development | MVC (Model-View-Controller) |
-| **Databases** | MySQL, MongoDB Atlas, SQL | |
-| **CMS & Tools** | **WordPress (Custom Plugin Dev)**, Vercel, Netlify, VS Code, Postman | |
-| **Version Control** | **GitHub** | Clean Code Principles |
+| Category            | Key Technologies                                                     | Architectural Patterns                           |
+| :------------------ | :------------------------------------------------------------------- | :----------------------------------------------- |
+| **Frontend**        | ReactJS, VueJS, JavaScript (ES6+), TailwindCSS, Bootstrap            | Component-Based Architecture (CBA), RESTful APIs |
+| **Backend**         | Laravel, PHP, Node.js, REST API Development                          | MVC (Model-View-Controller)                      |
+| **Databases**       | MySQL, MongoDB Atlas, SQL                                            |                                                  |
+| **CMS & Tools**     | **WordPress (Custom Plugin Dev)**, Vercel, Netlify, VS Code, Postman |                                                  |
+| **Version Control** | **GitHub**                                                           | Clean Code Principles                            |
 
 ---
+
 <!-- <br> -->
 
 ## GitHub Metrics & Activity
@@ -56,9 +58,35 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 ---
 
 <h3 align="center">Let's Connect!</h3>
-<p align="center">
-  <a href="https://portfoliorakib.netlify.app/"><img alt="Portfolio" width="40px" src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000" style="padding:5px"/></a>
+<!-- <p align="center">
+  <a href="https://rakibwdev.netlify.app/"><img alt="Portfolio" width="40px" src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000" style="padding:5px"/></a>
   <a href="https://www.linkedin.com/in/rakibwdev"><img alt="LinkedIn" width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" style="padding:5px"/></a>
+</p> -->
+<p align="center">
+  <!-- Portfolio -->
+  <a href="https://rakibwdev.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/domain.png" alt="Portfolio" width="40"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rakibwdev" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:rakib.wdev@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/email.png" alt="Email" width="40"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/8801976571196" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/whatsapp.png" alt="WhatsApp" width="40"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/rakibwdev" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/facebook-new.png" alt="Facebook" width="40"/>
+  </a>
 </p>
 
 <p align="center">

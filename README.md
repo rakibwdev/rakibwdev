@@ -22,12 +22,17 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 - I’m actively strengthening my skills in **VueJS** and modern JavaScript (ES6+).
 - I’m open to collaboration on **Full-Stack** projects built with the **TALL** (Tailwind, Alpine, Laravel, Livewire) stack.
 - Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.
-- Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/rakibwdev).
+- Feel free to connect with me on <a href="https://www.linkedin.com/in/rakibwdev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  [**LinkedIn**](https://www.linkedin.com/in/rakibwdev).
 
 <a><img src="https://komarev.com/ghpvc/?username=rakibwdev&label=Profile%20Views:&color=0e75b6&style=flat" alt="rakibwdev" /></a>
 
 ---
+
 ---
+
 <!-- <br> -->
 
 <!-- first part -->
@@ -53,8 +58,11 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 ---
+
 ---
+
 <!-- 2nd part -->
+
 🧩 Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
@@ -79,8 +87,8 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Clean_Code_Principles-2C2C2C?style=for-the-badge&logo=codefactor&logoColor=white" /> <img src="https://img.shields.io/badge/MVC_Architecture-4B8BBE?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Component_Based_Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
 ---
-<!-- 3rd part -->
----
+
+## <!-- 3rd part -->
 
 ### ⚙️ Languages & Frameworks
 
@@ -90,20 +98,19 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 ### 🧩 CMS & Tools
 
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /><img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" /><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" /><img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" /><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" /><img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /><img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" /><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />      <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
 ---
 
 ### �️ Development Tools
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /><img src="https://img.shields.io/badge/ClickUp-7B00FF?style=for-the-badge&logo=clickup&logoColor=white" /><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 ---
 
 ### ⚡ Automation & CRM
 
-<img src="https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white" /><img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" /><img src="https://img.shields.io/badge/GoHighLevel-157AF6?style=for-the-badge&logo=salesforce&logoColor=white" />
-
+<img src="https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white" />
 ---
 
 ## Tech Stack & Expertise

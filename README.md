@@ -29,6 +29,31 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 ---
 
 <!-- <br> -->
+
+<!-- Frontend & Core Development -->
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,bootstrap,php,laravel,nodejs"
+    alt="Frontend & Backend Technologies"
+  />
+</p>
+
+<!-- Version Control & Dev Tools -->
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker,postman"
+    alt="Development Tools"
+  />
+</p>
+
+<!-- Databases, CMS & Platforms -->
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,wordpress,figma,netlify,vercel"
+    alt="Databases, CMS & Platforms"
+  />
+</p>
+
 ---
 
 🧩 Frontend

@@ -65,27 +65,47 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 <p align="center">
   <!-- Portfolio -->
   <a href="https://rakibwdev.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/domain.png" alt="Portfolio" width="40"/>
+    <img
+      src="https://img.icons8.com/color/48/domain.png"
+      alt="Portfolio"
+      width="40"
+    />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rakibwdev" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="LinkedIn" width="40"/>
+    <img
+      src="https://img.icons8.com/color/48/linkedin.png"
+      alt="LinkedIn"
+      width="40"
+    />
   </a>
 
-  <!-- Email -->
+  <!-- Gmail -->
   <a href="mailto:rakib.wdev@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/email.png" alt="Email" width="40"/>
+    <img
+      src="https://img.icons8.com/color/48/gmail-new.png"
+      alt="Gmail"
+      width="40"
+    />
   </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/8801976571196" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/whatsapp.png" alt="WhatsApp" width="40"/>
+    <img
+      src="https://img.icons8.com/color/48/whatsapp.png"
+      alt="WhatsApp"
+      width="40"
+    />
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/rakibwdev" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/facebook-new.png" alt="Facebook" width="40"/>
+  <a href="https://img.icons8.com/color/48/facebook-new.png" target="_blank">
+    <img
+      src="https://img.icons8.com/color/48/facebook-new.png"
+      alt="Facebook"
+      width="40"
+    />
   </a>
 </p>
 

@@ -30,6 +30,37 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 <!-- <br> -->
 
+🧩 Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+🛠 Backend
+<img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+🗄 Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+🧩 CMS & Tools
+<img src="https://img.shields.io/badge/WordPress_Custom_Plugins-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+🔁 Version Control & Practices
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Clean_Code_Principles-2C2C2C?style=for-the-badge&logo=codefactor&logoColor=white" /> <img src="https://img.shields.io/badge/MVC_Architecture-4B8BBE?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Component_Based_Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+---
+
+### 🧩 CMS & Tools
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /><img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" /><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" /><img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" /><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" /><img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" />
+
+---
+
+### �️ Development Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /><img src="https://img.shields.io/badge/ClickUp-7B00FF?style=for-the-badge&logo=clickup&logoColor=white" /><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+---
+
+### ⚡ Automation & CRM
+
+<img src="https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white" /><img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" /><img src="https://img.shields.io/badge/GoHighLevel-157AF6?style=for-the-badge&logo=salesforce&logoColor=white" />
+
+---
+
 ## Tech Stack & Expertise
 
 | Category            | Key Technologies                                                     | Architectural Patterns                           |
@@ -69,6 +100,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
       src="https://img.icons8.com/color/48/domain.png"
       alt="Portfolio"
       width="40"
+      style="padding:5px"
     />
   </a>
 
@@ -77,7 +109,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
     <img
       src="https://img.icons8.com/color/48/linkedin.png"
       alt="LinkedIn"
-      width="40"
+      width="40"style="padding:5px"
     />
   </a>
 
@@ -86,7 +118,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
     <img
       src="https://img.icons8.com/color/48/gmail-new.png"
       alt="Gmail"
-      width="40"
+      width="40"style="padding:5px"
     />
   </a>
 
@@ -95,7 +127,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
     <img
       src="https://img.icons8.com/color/48/whatsapp.png"
       alt="WhatsApp"
-      width="40"
+      width="40"style="padding:5px"
     />
   </a>
 
@@ -104,7 +136,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
     <img
       src="https://img.icons8.com/color/48/facebook-new.png"
       alt="Facebook"
-      width="40"
+      width="40"style="padding:5px"
     />
   </a>
 </p>

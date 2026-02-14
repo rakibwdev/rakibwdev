@@ -22,9 +22,6 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 - I’m actively strengthening my skills in **VueJS** and modern JavaScript (ES6+).
 - I’m open to collaboration on **Full-Stack** projects built with the **TALL** (Tailwind, Alpine, Laravel, Livewire) stack.
 - Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.
-- Feel free to connect with me on <a href="https://www.linkedin.com/in/rakibwdev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
 <a><img src="https://komarev.com/ghpvc/?username=rakibwdev&label=Profile%20Views:&color=0e75b6&style=flat" alt="rakibwdev" /></a>
 
@@ -139,12 +136,11 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 ---
 
-<h3 align="center">Let's Connect!</h3>
+<h3 align="center">Feel free to connect with me on</h3>
 <p align="center">
   <a href="https://rakibwdev.netlify.app/"><img alt="Portfolio" width="40px" src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color" style="padding:5px"/></a>
   <a href="https://www.linkedin.com/in/rakibwdev"><img alt="LinkedIn" width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" style="padding:5px"/></a>
-</p>
-<p align="center">
+
   <!-- Portfolio -->
   <a href="https://rakibwdev.netlify.app/" target="_blank">
     <img

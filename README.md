@@ -25,7 +25,6 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 - Feel free to connect with me on <a href="https://www.linkedin.com/in/rakibwdev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  [**LinkedIn**](https://www.linkedin.com/in/rakibwdev).
 
 <a><img src="https://komarev.com/ghpvc/?username=rakibwdev&label=Profile%20Views:&color=0e75b6&style=flat" alt="rakibwdev" /></a>
 

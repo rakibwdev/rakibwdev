@@ -26,6 +26,8 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 <a><img src="https://komarev.com/ghpvc/?username=rakibwdev&label=Profile%20Views:&color=0e75b6&style=flat" alt="rakibwdev" /></a>
 
 ---
+## Tech Stack & Expertise 
+---
 
 ---
 
@@ -108,18 +110,6 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 ### ⚡ Automation & CRM
 
 ## <img src="https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white" />
-
-## Tech Stack & Expertise
-
-| Category            | Key Technologies                                                     | Architectural Patterns                           |
-| :------------------ | :------------------------------------------------------------------- | :----------------------------------------------- |
-| **Frontend**        | ReactJS, VueJS, JavaScript (ES6+), TailwindCSS, Bootstrap            | Component-Based Architecture (CBA), RESTful APIs |
-| **Backend**         | Laravel, PHP, Node.js, REST API Development                          | MVC (Model-View-Controller)                      |
-| **Databases**       | MySQL, MongoDB Atlas, SQL                                            |                                                  |
-| **CMS & Tools**     | **WordPress (Custom Plugin Dev)**, Vercel, Netlify, VS Code, Postman |                                                  |
-| **Version Control** | **GitHub**                                                           | Clean Code Principles                            |
-
----
 
 <!-- <br> -->
 

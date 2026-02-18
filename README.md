@@ -131,8 +131,6 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 <h3 align="center">Feel free to connect with me on</h3>
 <p align="center">
 
-<a href="https://rakibwdev.netlify.app/"><img alt="Portfolio" width="40px" src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color" style="padding:5px"/></a>
-
   <!-- Portfolio -->
   <a href="https://rakibwdev.netlify.app/" target="_blank">
     <img

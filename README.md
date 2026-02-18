@@ -26,7 +26,9 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 <a><img src="https://komarev.com/ghpvc/?username=rakibwdev&label=Profile%20Views:&color=0e75b6&style=flat" alt="rakibwdev" /></a>
 
 ---
-## Tech Stack & Expertise 
+
+## Tech Stack & Expertise
+
 ---
 
 ---
@@ -62,7 +64,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 <!-- 2nd part -->
 
 🧩 Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 ---
@@ -128,13 +130,13 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 <h3 align="center">Feel free to connect with me on</h3>
 <p align="center">
-  <a href="https://rakibwdev.netlify.app/"><img alt="Portfolio" width="40px" src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color" style="padding:5px"/></a>
-  <a href="https://www.linkedin.com/in/rakibwdev"><img alt="LinkedIn" width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" style="padding:5px"/></a>
+
+<a href="https://rakibwdev.netlify.app/"><img alt="Portfolio" width="40px" src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color" style="padding:5px"/></a>
 
   <!-- Portfolio -->
   <a href="https://rakibwdev.netlify.app/" target="_blank">
     <img
-      src="https://img.icons8.com/color/48/domain.png"
+      src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color"
       alt="Portfolio"
       width="40"
       style="padding:5px"

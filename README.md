@@ -14,7 +14,7 @@
 
 ## About Me
 
-<img align="right" alt="Code illustration showing front-end and back-end work" width="300" src="https://raw.githubusercontent.com/rakibwdev/rakibwdev/refs/heads/main/Developer.gif">
+<img align="right" alt="Code illustration showing front-end and back-end work" width="250" src="https://raw.githubusercontent.com/rakibwdev/rakibwdev/refs/heads/main/Developer.gif">
 
 I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in building responsive, scalable, and high-performance web applications. My background includes full-stack development using modern frameworks.
 
@@ -25,15 +25,15 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 <a><img src="https://komarev.com/ghpvc/?username=rakibwdev&label=Profile%20Views:&color=0e75b6&style=flat" alt="rakibwdev" /></a>
 
+<br>
+
 ---
 
 ## Tech Stack & Expertise
 
 ---
 
----
 
-<!-- <br> -->
 
 <!-- first part -->
 
@@ -63,9 +63,9 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 <!-- 2nd part -->
 
-🧩 Frontend
+<!-- 🧩 Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
 
 ---
 

@@ -24,9 +24,11 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 - Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.
 
 <br>
----
 
-## Tech Stack & Expertise
+---
+<h2 align="center">Tech Stack & Expertise</h2>
+
+<!-- ## Tech Stack & Expertise -->
 
 <!-- first part -->
 
@@ -90,8 +92,9 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 ## <img src="https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white" />
 
 <!-- <br> -->
+<h2 align="center">GitHub Metrics & Activity</h2>
 
-## GitHub Metrics & Activity
+<!-- ## GitHub Metrics & Activity -->
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibwdev&theme=tokyonight" alt="GitHub Profile Details" />

@@ -14,7 +14,7 @@
 
 ## About Me
 
-<img align="right" alt="Code illustration showing front-end and back-end work" width="300" src="https://raw.githubusercontent.com/rakibwdev/rakibwdev/refs/heads/main/Developer.gif">
+<img align="right" alt="Code illustration showing front-end and back-end work" width="250" src="https://raw.githubusercontent.com/rakibwdev/rakibwdev/refs/heads/main/Developer.gif">
 
 I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in building responsive, scalable, and high-performance web applications. My background includes full-stack development using modern frameworks.
 
@@ -23,7 +23,6 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 - I’m open to collaboration on **Full-Stack** projects built with the **TALL** (Tailwind, Alpine, Laravel, Livewire) stack.
 - Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.
 
-<a><img src="https://komarev.com/ghpvc/?username=rakibwdev&label=Profile%20Views:&color=0e75b6&style=flat" alt="rakibwdev" /></a>
 <br>
 ---
 
@@ -31,19 +30,17 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 <!-- first part -->
 
-🎨 Frontend
+## 🎨 Frontend
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
----
 
-🛠 Backend
+## 🛠 Backend
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 
----
 
-🗄 Databases
+## 🗄 Databases
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
 
@@ -61,7 +58,8 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 ---
 
-🔁 Version Control & Practices
+## 🔁 Version Control & Practices
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Clean_Code_Principles-2C2C2C?style=for-the-badge&logo=codefactor&logoColor=white" /> <img src="https://img.shields.io/badge/MVC_Architecture-4B8BBE?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Component_Based_Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
 ---
@@ -161,5 +159,5 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/rakibwdev/rakibwdev?label=Last%20Update%20on&color=00BFFF&style=flat-square" alt="Last Commit Date" />
+  <img src="https://img.shields.io/github/last-commit/rakibwdev/rakibwdev?label=Last%20Update%20on&color=00BFFF&style=flat-square" alt="Last Commit Date" /> <a><img src="https://komarev.com/ghpvc/?username=rakibwdev&label=Profile%20Views:&color=0e75b6&style=flat" alt="rakibwdev" /></a>
 </p>

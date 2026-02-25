@@ -21,11 +21,9 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 - I’m actively strengthening my skills in **VueJS** and modern JavaScript (ES6+).
 - I’m open to collaboration on **Full-Stack** projects built with the **TALL** (Tailwind, Alpine, Laravel, Livewire) stack.
 - Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.
-
 <br>
 
----
-<h2 align="center">Tech Stack & Expertise</h2>
+<h1 align="center">Tech Stack & Expertise</h1>
 
 ---
 

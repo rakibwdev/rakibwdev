@@ -1,7 +1,6 @@
 <img  src="https://github.com/rakibwdev/rakibwdev/blob/main/HomeBanner.gif"> 
 <h1 align="center">Hello, I'm Md. Rakibul Islam</h1>
 <h3 align="center">Junior Full-Stack Web Developer | ReactJS | Laravel | WordPress</h3>
-
 ---
 
 <p align="center">
@@ -28,6 +27,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 ---
 <h2 align="center">Tech Stack & Expertise</h2>
 
+---
 
 <!-- first part -->
 
@@ -50,13 +50,11 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
----
 
 ## 🔁 Version Control & Practices
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Clean_Code_Principles-2C2C2C?style=for-the-badge&logo=codefactor&logoColor=white" /> <img src="https://img.shields.io/badge/MVC_Architecture-4B8BBE?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Component_Based_Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
----
 
  <!-- 3rd part -->
 

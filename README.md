@@ -22,17 +22,10 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 - I’m actively strengthening my skills in **VueJS** and modern JavaScript (ES6+).
 - I’m open to collaboration on **Full-Stack** projects built with the **TALL** (Tailwind, Alpine, Laravel, Livewire) stack.
 - Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.
-  
-  <br>
-
-
 
 <br>
 
-<h1 align="center">Tech Stack & Expertise</h1>
-
----
-
+<h1 align="center" >Tech Stack & Expertise</h1>
 
 ## Frontend 
 
@@ -54,7 +47,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 ## Deployment & DevOps
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 
 ## Tools & Workflow
@@ -66,17 +59,11 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 
 <img src="https://img.shields.io/badge/MVC_Architecture-4B8BBE?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Component_Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Clean_Code-2C2C2C?style=for-the-badge&logo=codefactor&logoColor=white" />
 
-
-<!-- ## ⚡ Automation & CRM
-<img src="https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white" /> -->
-
 <br>
 
----
+<h1 align="center">GitHub Metrics & Activity</h1>
 
-<h2 align="center">GitHub Metrics & Activity</h2>
-
-<!-- ## GitHub Metrics & Activity -->
+<br>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibwdev&theme=tokyonight" alt="GitHub Profile Details" />
@@ -90,52 +77,32 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 ---
 
 <h3 align="center">Feel free to connect with me on</h3>
+
 <p align="center">
 
   <!-- Portfolio -->
   <a href="https://rakibwdev.netlify.app/" target="_blank">
-    <img
-      src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color"
-      alt="Portfolio"
-      width="40"
-      style="padding:5px"
-    />
+    <img src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color" alt="Portfolio" width="40" style="padding:5px" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rakibwdev" target="_blank">
-    <img
-      src="https://img.icons8.com/color/48/linkedin.png"
-      alt="LinkedIn"
-      width="40"style="padding:5px"
-    />
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"style="padding:5px" />
   </a>
 
   <!-- Gmail -->
   <a href="mailto:rakib.wdev@gmail.com">
-    <img
-      src="https://img.icons8.com/color/48/gmail-new.png"
-      alt="Gmail"
-      width="40"style="padding:5px"
-    />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40"style="padding:5px" />
   </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/8801976571196" target="_blank">
-    <img
-      src="https://img.icons8.com/color/48/whatsapp.png"
-      alt="WhatsApp"
-      width="40"style="padding:5px"
-    />
+    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" width="40"style="padding:5px" />
   </a>
 
   <!-- Facebook -->
   <a href="https://img.icons8.com/color/48/facebook-new.png" target="_blank">
-    <img
-      src="https://img.icons8.com/color/48/facebook-new.png"
-      alt="Facebook"
-      width="40"style="padding:5px"
-    />
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40"style="padding:5px" />
   </a>
 </p>
 

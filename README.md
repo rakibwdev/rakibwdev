@@ -1,6 +1,6 @@
 <img  src="https://github.com/rakibwdev/rakibwdev/blob/main/HomeBanner.gif"> 
 <h1 align="center">Hello, I'm Md. Rakibul Islam</h1>
-<h3 align="center">Junior Full-Stack Web Developer | ReactJS | Laravel | WordPress</h3>
+<h3 align="center">Full-Stack Web Developer | ReactJS | Laravel | WordPress</h3>
 
 ---
 
@@ -16,7 +16,7 @@
 
 <img align="right" alt="Code illustration showing front-end and back-end work" width="250" src="https://raw.githubusercontent.com/rakibwdev/rakibwdev/refs/heads/main/Developer.gif">
 
-I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in building responsive, scalable, and high-performance web applications. My background includes full-stack development using modern frameworks.
+I am a detail-oriented **Full Stack Web Developer** from Dhaka, specializing in building responsive, scalable, and high-performance web applications. My background includes full-stack development using modern frameworks.
 
 - I’m currently focused on **Laravel** API development and **ReactJS** frontend architecture.
 - I’m actively strengthening my skills in **VueJS** and modern JavaScript (ES6+).

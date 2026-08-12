@@ -14,7 +14,7 @@
 
 ## About Me
 
-<img align="right" alt="Code illustration showing front-end and back-end work" width="250" src="https://raw.githubusercontent.com/rakibwdev/rakibwdev/refs/heads/main/Developer.gif">
+<!-- <img align="right" alt="Code illustration showing front-end and back-end work" width="250" src="https://raw.githubusercontent.com/rakibwdev/rakibwdev/refs/heads/main/Developer.gif"> -->
 
 I am a detail-oriented **Full Stack Web Developer** from Dhaka, specializing in building responsive, scalable, and high-performance web applications. My background includes full-stack development using modern frameworks.
 

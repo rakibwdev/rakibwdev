@@ -18,7 +18,7 @@
 
 I am a detail-oriented **Full Stack Web Developer** from Dhaka, specializing in building responsive, scalable, and high-performance web applications. My background includes full-stack development using modern frameworks.
 
-- I’m currently focused on **Laravel** API development and **ReactJS** frontend architecture.
+- I’m currently focused on **Laravel** API development, **ReactJS**, **VPS** server setup and **CI/CD**.
 - I’m actively strengthening my skills in **VueJS** and modern JavaScript (ES6+).
 - I’m open to collaboration on **Full-Stack** projects built with the **TALL** (Tailwind, Alpine, Laravel, Livewire) stack.
 - Ask me about **API Integration**, **WordPress Plugin Development**, and efficient state management in React.

@@ -48,9 +48,12 @@ I am a detail-oriented **Full Stack Web Developer** from Dhaka, specializing in 
 
 ## Deployment & DevOps
 
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" /> <img src="https://img.shields.io/badge/VPS-0055FF?style=for-the-badge&logo=vps&logoColor=white" /> <img src="https://img.shields.io/badge/CI/CD-21759B?style=for-the-badge&logo=cicd&logoColor=white" />
-<img src="https://img.shields.io/badge/VPS-0055FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" /> 
+<img src="https://img.shields.io/badge/VPS-0055FF?style=for-the-badge&logo=vps&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CI/CD-21759B?style=for-the-badge&logo=cicd&logoColor=white" />
 
 ## Tools & Workflow
 

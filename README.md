@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,wordpress,figma,postman,netlify,vercel,npm,docker" alt="Databases and CMS Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,wordpress,figma,typescript,postman,netlify,vercel,npm,docker" alt="Databases and CMS Tools" />
 </p>
 
 ## About Me

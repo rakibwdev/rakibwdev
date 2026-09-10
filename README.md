@@ -5,11 +5,11 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,bootstrap,php,laravel,nodejs,git,github,vscode" alt="Frontend and Core Tools" />
+  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,bootstrap,php,laravel,nodejs,typescript,git,github" alt="Frontend and Core Tools" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,wordpress,figma,typescript,postman,netlify,vercel,npm,docker" alt="Databases and CMS Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,wordpress,figma,vscode,postman,netlify,vercel,npm,docker" alt="Databases and CMS Tools" />
 </p>
 
 ## About Me

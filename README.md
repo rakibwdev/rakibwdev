@@ -1,6 +1,6 @@
 <img  src="https://github.com/rakibwdev/rakibwdev/blob/main/HomeBanner.gif"> 
 <h1 align="center">Hello, I'm Md. Rakibul Islam</h1>
-<h3 align="center">Full-Stack Web Developer | ReactJS | Laravel | WordPress</h3>
+<h3 align="center">Full-Stack Web Developer | React | Laravel | WordPress</h3>
 
 ---
 

@@ -83,7 +83,7 @@ I am a detail-oriented **Full Stack Web Developer** from Dhaka, specializing in 
 <p align="center">
 
   <!-- Portfolio -->
-  <a href="https://rakibwdev.netlify.app/" target="_blank">
+  <a href="https://rakibwdev.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color" alt="Portfolio" width="40" style="padding:5px" />
   </a>
 

@@ -25,7 +25,7 @@ I am a detail-oriented **Full Stack Web Developer** from Dhaka, specializing in 
 
 <br>
 
-<img  src="https://github.com/rakibwdev/rakibwdev/blob/main/HomeBanner.gif">
+<!-- <img  src="https://github.com/rakibwdev/rakibwdev/blob/main/HomeBanner.gif"> -->
 
 <h1 align="center" >Tech Stack & Expertise</h1>
 
